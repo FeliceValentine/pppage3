@@ -1,0 +1,60 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap'); /* Font for the main bits -Poppins*/
+body{
+    background-color: #c7d9e4;
+    font-family: "Poppins";
+    color:#09243b;
+    margin:2rem;
+}
+
+.thankYou{
+    background-color: #fad2e1;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 45px;
+    border:solid;
+    border-color: #3e9cd3;
+    margin:2rem;
+}
+ .bottomBit{
+    background-color: #b482a1;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 45px;
+    border:solid;
+    border-color: #4988fc;
+    margin:2rem;
+    font-size: medium;
+ }
+
+.button{
+    border-radius: 45px;
+    border:solid;
+    border-color: #3e9cd3;
+    margin:2rem;
+    background-color: #cbabd8;
+    padding: 1rem;
+    color:#152c3f ;
+} 
+
+.button:hover{
+    transform: scale(1.2);
+}
+.byeBye{
+    font-size: larger;
+}
+.other{
+    background-color: #cac0ce;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 45px;
+    border:solid;
+    border-color: #3e9cd3;
+    margin:2rem;
+}
